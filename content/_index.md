@@ -1,6 +1,5 @@
----
+
 title: O co jde? 
-# NE POTRATŮM
 
 ** Chceme informovat mladší generace o hrozbách, které jsou spojené s potraty a jaký to má dopad na jejich psychiku. Více prosadit baby boxy a podporu mladých matek v tísni. **
 
