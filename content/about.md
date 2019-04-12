@@ -70,7 +70,7 @@ Aktuality budou vycházet každý týden. Budeme Vás zásobovat zajímavými č
 
 
 ### Náš tým
-<img src="my.jpg">
+<img src="https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/56749118_2006340889675213_5480310928903766016_n.jpg?_nc_cat=103&_nc_ht=scontent-prg1-1.xx&oh=5fe658e2aef7ee2549cbbf39c9f5c273&oe=5D4FF04B">
 
 
 
