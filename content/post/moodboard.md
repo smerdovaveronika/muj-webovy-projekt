@@ -8,6 +8,9 @@ tags:
 - potraty nechceme
 - radšikondom
 ---
+Dnes se v článku budeme věnovat inspiraci. Naše stárnky by měly být milé a vpohodné pro dospívající mladé lidi. Budou nabádat k tomu, aby se zbytečně nedostávali do nepříjemných situací kvůli sexu.
+Náš cíl je také informovat o alternativních možnostech, které vylučují potraty. Zároveň chceme, aby na stránkách byla i Help linka jasně viditelná na hlavní stránce, kde se můžou teenageři obrátit, když si neví rady s nechtěným těhotenstvím. 
+Zde jsou naše inspirativní moodboardy, které nám následně pomůžou zhotovit uspokojivé stránky. 
 
 ## Moodboard Luboše
 
