@@ -1,2 +1,2 @@
 # muj-webovy-projekt
-kvůli NAMI
+pracujeme na tomto projektu kvůli NAMI
