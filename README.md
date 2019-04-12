@@ -1,2 +1,2 @@
 # muj-webovy-projekt
-kvůli NAMI k
+kvůli NAMI
