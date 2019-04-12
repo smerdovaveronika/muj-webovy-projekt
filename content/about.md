@@ -69,7 +69,8 @@ o	Záchranná centra pro matky
 Aktuality budou vycházet každý týden. Budeme Vás zásobovat zajímavými články na toto téma. Nejsme křesťané, děláme to čistě z etického důvodu, ale přesto se tu občas nějaký článek objeví. Naším cílem je informovat, ne přeinformovat. Budeme postupně doplňovat články o alternativách v nepravidelných intervalech. 
 
 
-
+### Náš tým
+<img src="my.jpg">
 
 
 
