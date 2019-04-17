@@ -28,6 +28,7 @@ Druhý moodboard je konzistentnější, zato však se spoustou informací, má d
 <div class="canva-embed" data-design-id="DADW6FWxA9I" data-height-ratio="0.8383" style="padding:83.8298% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADW6FWxA9I&#x2F;view?utm_content=DADW6FWxA9I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">right-to-life movement</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;veronika.smerdova?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">smerdova.veronika</a>
 
 ## Moodboard Vojty
+
 <div class="canva-embed" data-design-id="DADXXyb4ATg" data-height-ratio="1.4143" style="padding:141.4286% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXXyb4ATg&#x2F;view?utm_content=DADXXyb4ATg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Dvojí metr</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;VojtechMichal?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Vojta</a>
 
 ---
