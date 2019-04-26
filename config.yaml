@@ -2,6 +2,7 @@ title: NE potratům
 baseURL: https://cranky-brattain-9738bc.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: UA-139167009-1
 
 menu:
   main:
