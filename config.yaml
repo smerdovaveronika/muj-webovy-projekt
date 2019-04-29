@@ -4,6 +4,7 @@ languageCode: cs-cz
 publishDir: public
 googleAnalytics: UA-139167009-1
 
+
 menu:
   main:
     - name: Homepage
