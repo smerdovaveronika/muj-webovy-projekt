@@ -1,13 +1,12 @@
 .wrapper {
-  margin: 60px auto;
+  margin: 50x auto;
   max-width: 700px;
   padding: 25px;
 }
 
 header {
 
-  padding: 25px 0 0;
-  padding: 34px 0 0;
+  padding: 40px 0 0;
 
   border-bottom: solid;
   background-image: url(https://i.guim.co.uk/img/media/a16ac2697397a657c14c5afb2676d9c34e06545f/0_137_5079_3047/master/5079.jpg?width=700&quality=85&auto=format&fit=max&s=718c28aae66caa5eeae95fa1b6c2a63b);
