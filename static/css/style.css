@@ -1,26 +1,28 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+  margin: 60px auto;
+  max-width: 700px;
+  padding: 25px;
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 60px 0 0;
   border-bottom: solid;
+  background-image: url(https://images.pexels.com/photos/266011/pexels-photo-266011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&fbclid=IwAR3n4LbNd4vM0YIkyC5twrZnHTGpi_vJnX8ulCw5uwO4UTbLfbshx40xTLg)
 }
 
 footer {
-  border-top: solid;
+  border-top: dotted;
   clear: both;
 }
 
 .page {
-  float: right;
-  width: 70%;
+  float: middle;
+  width: 60%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background-color: #ff8080;
 }
 
 aside {
