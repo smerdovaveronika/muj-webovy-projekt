@@ -24,11 +24,11 @@ footer {
   padding-left: 2.5em;
   padding-bottom: 2.5em;
   min-height: 400px;
-  background-color: #ff8080;
+  background-color: #ff9e9e;
 }
 
 aside {
-  float: left;
+  float: right;
   width: 25%;
   margin-top: 1em;
 }
