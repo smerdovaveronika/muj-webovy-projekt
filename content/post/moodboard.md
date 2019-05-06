@@ -8,6 +8,9 @@ tags:
 - potraty nechceme
 - radšikondom
 ---
+
+## Úvodem 
+
 Dnes se v článku budeme věnovat inspiraci. Naše stárnky by měly být milé a vpohodné pro dospívající lidi. 
 Budou nabádat k tomu, aby se zbytečně nedostávali do nepříjemných situací kvůli sexu.
 Náš cíl je také informovat o alternativních možnostech, které vylučují potraty. 
