@@ -15,3 +15,4 @@ tags:
 ## O čem článek píše?
 
 V článku se dozvíte Co znamená Motto lobbujeme za život. Co hnutí dělá a proč. 
+Je to jedno z největších organizací pro život!
