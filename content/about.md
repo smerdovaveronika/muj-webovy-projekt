@@ -6,7 +6,7 @@ menu:
 ---
 
 
-### O nás 
+### Kdo jsme? 
 
 
 
