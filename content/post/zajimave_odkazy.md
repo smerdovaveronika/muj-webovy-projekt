@@ -16,3 +16,11 @@ tags:
 
 V článku se dozvíte Co znamená Motto lobbujeme za život. Co hnutí dělá a proč. 
 Je to jedno z největších organizací pro život!
+
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCTdPDNSbzh_SL0u-cgWCT8HTy9dCz7cWA
+    &q=Space+Needle,Seattle+WA" allowfullscreen>
+</iframe>
