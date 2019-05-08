@@ -1,17 +1,74 @@
+body {
+     background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/brushed_alu.png)
+  }
+
+
+
+.description {
+  color: white;
+  font-family: Verdana;
+  font-weight: 150;
+  text-align: left;
+}
+
+
+
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
+  background: #db7093;
+
+}
+
+ h1{ 
+  font-family: Verdana;
+  font-size: xx-large;
+  text-align: center;
+ }
+
+ h2 {
+  font-family: Verdana;
+  font-size: x-large;
+  text-align: center;
+ }
+
+
+
+ a {
+    text-decoration: none;
+    color: White;
+}
+
+p {
+  font-family: Verdana;
+  font-size: medium;
+  text-align: justify; 
+
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 500px 0 0;
   border-bottom: solid;
+  background: url(https://cdn.firstcrycdn.com/2017/11/310710137-H.jpg);
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-weight: 540;
+  
+
+
+  
+
 }
 
 footer {
   border-top: solid;
   clear: both;
+  background: #ffb6c1;
+  font-family: fantasy;
+  font-weight: 400;
+
 }
 
 .page {
@@ -21,25 +78,37 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background: #db7093;
+
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
+
 }
 
 nav li {
   margin-bottom: 1em;
+  background: #db7093;
+  text-align: center;
+  font-family: fantasy;
+  font-weight: 700;
+  color: white;
+
 }
 
 nav .active {
   font-weight: bold;
+
+
 }
 
 .resp-sharing-button__link,

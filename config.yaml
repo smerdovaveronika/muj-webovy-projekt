@@ -1,7 +1,9 @@
-title: NE potratům
+title: Nechceme zbytečné potraty
 baseURL: https://cranky-brattain-9738bc.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: UA-139167009-1
+
 
 menu:
   main:
@@ -14,6 +16,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Máš i jinou možnost.
+  authors: Veronika, Vojta a Lubo
 
