@@ -15,6 +15,6 @@ Pokud se stále domníváte, že jsou tato čísla divoká můžeme se podívat 
 Tato čísla nejen že ukazují zlepšení naší lékařské péče ale také to značí, že lidé se mnohem méně spoléhají na potraty a více promýšlí důsledky svých rozhodnutí. Stále ale je za co bojovat.
 
 Veškeré svoje zdroje jsem čerpal na <a href="http://www.uzis.cz/katalog/zdravotnicka-statistika/potraty">UZIS.cz</a>
-<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
+<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small"><a target="_blank" href="https://cranky-brattain-9738bc.netlify.com/" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 
 ---
