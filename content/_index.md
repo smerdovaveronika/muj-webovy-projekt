@@ -22,8 +22,6 @@ http://www.opsychologii.cz/clanek/175-postinterrupcni-syndrom/
 
 
 
-
-
 ---
 
 
