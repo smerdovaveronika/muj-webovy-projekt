@@ -28,12 +28,13 @@ Reversibilní (vratné) metody:
 
 
 **Podkožní implantáty** (nedostupné v ČR)
-
+Jedná se o gestagenní hormonální antikoncepci, tedy neobsahuje estrogen. Působí zcela stejně jako pilulky tohoto typu jen s tím rozdílem, že se malá tyčinka zavádí do svalu na vnitřní straně paže, kde se ponechává tři roky. Při tomto zákroku se používá lokální anestezie. Je však možné tyčinku kdykoliv vyndat a navrátit tak ženě plodnost. Nejsou zde tedy prodlevy mezi ukončením používání antikoncepce a možností otěhotnět.
 <img src="https://media.novinky.cz/736/257367-original1-za621.jpg" width="250" height="200"border="2" >
 
 Nereversibilní (nevratná) metoda: 
 
 **Sterilizace**
+Sterilizace je definována jako postup, který nevratně brání možnosti otěhotnění (ale zachovává normální funkci pohlavních žláz).
 
 ## Krátkodobá antikoncepce
 Metody krátkodobé antikoncepce dělíme na asplikují se denně (pilulky), 1x týdně (náplasti), 1x měsíčně (vaginální kroužky),1x za několik měsíců (injekce).
