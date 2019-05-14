@@ -9,9 +9,12 @@ menu:
 ### ÚVOD
 
 
-
+## HLAVNÍM CÍLEM STRÁNKY JE INFORMOVAT **MLADÉ O PREVENCI 
+PŘED OTĚHOTNĚNÍM** A PŘÍPADNÝMI MOŽNOSTMI JAK ŘEŠIT NĚCHTĚNÉ TĚHOTENSTVÍ.
 
 1.Naše cílová skupina jsou ženy, které se dostanou do tíživé situace, kdy otěhotní, ale nemají prostředky k tomu dítě vychovávat. Naše stránky nabízí jedinečnou možnost se seznámi s ruznými alternativami. Stránka není pouze pro dívky, ale i pro muže, kteří bez důvodně tlačí na své přítelkyně s potratem. 
+
+
 
 ### Název stránky
 
