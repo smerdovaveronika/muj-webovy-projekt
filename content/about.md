@@ -18,7 +18,7 @@ PŘED OTĚHOTNĚNÍM** A PŘÍPADNÝMI MOŽNOSTMI JAK ŘEŠIT NĚCHTĚNÉ TĚHOT
 
 ### Název stránky
 
-pouzivejkondomkdyznevis.cz
+pouzivejkondomkdyznevis.org
 
 ### Webové zdroje
 
