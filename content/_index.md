@@ -1,7 +1,8 @@
 
-O co jde? 
+
 
 ## HLAVNÍM CÍLEM STRÁNKY JE INFORMOVAT **MLADÉ O PREVENCI PŘED OTĚHOTNĚNÍM** A PŘÍPADNÝMI MOŽNOSTMI JAK ŘEŠIT NĚCHTĚNÉ TĚHOTENSTVÍ.
+O co jde? 
 
 Chceme informovat mladší generace o hrozbách, které jsou spojené s potraty a jaký to má dopad na jejich psychiku. Více prosadit baby boxy a podporu mladých matek v tísni. 
 
