@@ -1,6 +1,6 @@
 ---
 title: Typy ochrany před početím
-date: 2018-10-05
+date: 2019-05-14
 tags: 
     - kondom
     - antikoncepce
@@ -66,4 +66,5 @@ Tyto metody jsou asi nejpoužívanější, společně s antikoncepčními pilulk
 **Pesary**
 
 <img src="https://www.ladybio.cz/files/thumbs/mod_eshop/produkty/261-pesar-caya-nehormonalni-antikoncepce-3.217084881.jpg" width="250" height="200"border="2" >
+<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 ---
