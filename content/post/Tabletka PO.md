@@ -6,7 +6,7 @@ tags:
 ---
 V následujícím článku se dozvíte o Takbletke PO.
 
- - **CO tabletka PO??** 
+ - **CO je tabletka PO??** 
 
 ## Tabletka PO...
 
