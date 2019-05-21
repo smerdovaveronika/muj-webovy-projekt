@@ -47,4 +47,5 @@ Tato tabletka není určena pro každou ženu. Užívat by ji neměli ženy mlad
 
  
 <img src="https://www.drmax.sk/images/catalog-fullsize/27/22/2/180208-escapelle-tbl-1x1-5mg.jpg" width="250" height="200"border="2" >
+<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 ---
