@@ -1,5 +1,6 @@
 body {
-     background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/brushed_alu.png)
+     background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/brushed_alu.png);
+     max-width: 3600px;
   }
 
 
@@ -49,9 +50,9 @@ p {
 }
 
 header {
-  padding: 500px 0 0;
+  padding: 1050px 0 0;
   border-bottom: solid;
-  background: url(https://cdn.firstcrycdn.com/2017/11/310710137-H.jpg);
+  background: url(https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/60533022_2028589087450393_5788096514492465152_o.jpg?_nc_cat=102&_nc_ht=scontent-prg1-1.xx&oh=44a59de247817f6a63c821704054f102&oe=5D95BF75);
   text-align: center;
   color: white;
   font-family: fantasy;
