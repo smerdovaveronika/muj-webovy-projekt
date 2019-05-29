@@ -11,5 +11,4 @@ tags:
 Dnes jsem našel video, ve kterém se autor setkal s přeživším potratu. Toto velice silné a dojemné video nám ukazuje interview s dospělou přeživší potratu. Tato žena má ochrnutou polovinu obličeje a také spousty jiných vývojových vad. Velice dojemné je i, že dokázala své matce odpustit a najít si ve svém věku manžela. Je úžasné jak se tato žena naučila žít s rozhodnutím své matky a s jejímy následky.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DPC2mUpu2D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 ---
