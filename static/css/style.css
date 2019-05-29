@@ -1,5 +1,5 @@
 body {
-     background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/brushed_alu.png)
+     background: url(https://www.papelpintadoclasificado.com/6952-home_default/jules-et-julie-jul18914146.jpg)
   }
 
 
@@ -15,60 +15,60 @@ body {
 
 .wrapper {
   margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
-  background: #db7093;
+  max-width: 950px;
+  padding: 10px;
+  background: #f5f5f5;
 
 }
 
  h1{ 
-  font-family: Verdana;
-  font-size: xx-large;
+  font-family: fantasy;
   text-align: center;
-  font-size: 250%;
+  font-size: 200%;
+  color: grey;
  }
 
  h2 {
   font-family: Verdana;
   font-size: x-large;
   text-align: center;
+  color:grey;
  }
 
 
 
  a {
     text-decoration: none;
-    color: White;
+    color: #696969;
 }
 
 p {
   font-family: Verdana;
   font-size: medium;
   text-align: justify; 
+  color: #696969;
 
 }
 
 header {
   padding: 500px 0 0;
   border-bottom: solid;
-  background: url(https://cdn.firstcrycdn.com/2017/11/310710137-H.jpg);
-  text-align: center;
-  color: white;
+  background: url(https://cdn.pixabay.com/photo/2017/11/13/18/35/ad-2946440_960_720.jpg);
+  text-align: left;
+  color: #f5f5f5;
   font-family: fantasy;
-  font-weight: 540;
-  
-
-
+  font-weight: 340px;
+  font-size: 22px;
   
 
 }
 
 footer {
-  border-top: solid;
+  
   clear: both;
-  background: #ffb6c1;
+  background: ##696969;
   font-family: fantasy;
-  font-weight: 400;
+  font-weight: 400px;
 
 }
 
@@ -76,10 +76,12 @@ footer {
   float: right;
   width: 70%;
   border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
+  border-color: grey;
+  padding-left: 25px;
+  padding-top: 20px;
+  padding-bottom: 1em;
   min-height: 400px;
-  background: #db7093;
+  background: #f5f5f5;
 
 }
 
@@ -97,12 +99,12 @@ nav ul {
 }
 
 nav li {
-  margin-bottom: 1em;
-  background: #db7093;
+  margin-bottom: 2em;
   text-align: center;
-  font-family: fantasy;
+  font-size: 23px;
+ font-family: sans-serif;
   font-weight: 700;
-  color: white;
+  color: #696969;
 
 }
 

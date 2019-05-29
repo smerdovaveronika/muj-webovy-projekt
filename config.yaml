@@ -7,15 +7,15 @@ googleAnalytics: UA-139167009-1
 
 menu:
   main:
-    - name: Homepage
+    - name: Domů
       url: /
       weight: 10
-    - name: Archive
+    - name: Články
       identifier: post
       url: /post/
       weight: 20
 
-params:
-  description: Máš i jinou možnost. Prevence je důležitá!
-  authors: Veronika, Vojta a Lubo
+params: 
+  description:  
+  authors: Náš tým
 
