@@ -6,11 +6,10 @@ menu:
 ---
 
 
-### ÚVOD
+## ÚVOD
 
 
-## HLAVNÍM CÍLEM STRÁNKY JE INFORMOVAT **MLADÉ O PREVENCI 
-PŘED OTĚHOTNĚNÍM** A PŘÍPADNÝMI MOŽNOSTMI JAK ŘEŠIT NĚCHTĚNÉ TĚHOTENSTVÍ.
+## HLAVNÍM CÍLEM STRÁNKY JE INFORMOVAT MLADÉ O PREVENCI PŘED OTĚHOTNĚNÍM A PŘÍPADNÝMI MOŽNOSTMI JAK ŘEŠIT NĚCHTĚNÉ TĚHOTENSTVÍ.
 
 1.Naše cílová skupina jsou ženy, které se dostanou do tíživé situace, kdy otěhotní, ale nemají prostředky k tomu dítě vychovávat. Naše stránky nabízí jedinečnou možnost se seznámi s ruznými alternativami. Stránka není pouze pro dívky, ale i pro muže, kteří bez důvodně tlačí na své přítelkyně s potratem. 
 
@@ -73,7 +72,7 @@ Aktuality budou vycházet každý týden. Budeme Vás zásobovat zajímavými č
 
 
 ### Náš tým
-<img src="https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/56749118_2006340889675213_5480310928903766016_n.jpg?_nc_cat=103&_nc_ht=scontent-prg1-1.xx&oh=5fe658e2aef7ee2549cbbf39c9f5c273&oe=5D4FF04B">
+<img src="https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/56749118_2006340889675213_5480310928903766016_n.jpg?_nc_cat=103&_nc_ht=scontent-prg1-1.xx&oh=5fe658e2aef7ee2549cbbf39c9f5c273&oe=5D4FF04B" width="450" height="600" alt="my"border= 2px>
 
 
 
