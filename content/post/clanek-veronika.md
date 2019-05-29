@@ -2,10 +2,10 @@
 title: Typy ochrany před početím
 date: 2019-05-14
 tags: 
-    - kondom
-    - antikoncepce
-    - hormonální kroužek
-    - tělísko
+    - Kondom
+    - Antikoncepce
+    - Hormonální kroužek
+    - Tělísko
 ---
 V následujícím článku se dozvíte o typech antikoncepce, které lze využít, aby nedošlo k nechtěnému početí. 
 Antikoncepce lze rozdělit na tyto dva typy :
@@ -18,7 +18,7 @@ Antikoncepce lze rozdělit na tyto dva typy :
 
 Metody dlouhodobé antikoncepce můžeme dělit na *reversibilní* (vratné, po ukončení užívání nebo aplikace antikoncepce, se plodnost obnoví) *nereversibilní* (nevratné, plodnost se už neobnoví).
 
-Reversibilní (vratné) metody: 
+**Reversibilní** (vratné) metody: 
 
 **Nitroděložní tělísko s hormonem** zavádí se do dělohy. Tělísko obsahuje progestin (hormon žlutého tělíska), který zahustí hlen děložního hrdla. To se stane pro spermie neprostupným, zabrání se jim v cestě k vajíčku, takže nemůže dojít k jejich spojení. 
 <img src="https://i.iinfo.cz/rs2/135/Nitrodelozni-telisko-19.jpg" width="250" height="200"border="2" >
@@ -31,7 +31,7 @@ Reversibilní (vratné) metody:
 Jedná se o gestagenní hormonální antikoncepci, tedy neobsahuje estrogen. Působí zcela stejně jako pilulky tohoto typu jen s tím rozdílem, že se malá tyčinka zavádí do svalu na vnitřní straně paže, kde se ponechává tři roky. Při tomto zákroku se používá lokální anestezie. Je však možné tyčinku kdykoliv vyndat a navrátit tak ženě plodnost. Nejsou zde tedy prodlevy mezi ukončením používání antikoncepce a možností otěhotnět.
 <img src="https://media.novinky.cz/736/257367-original1-za621.jpg" width="250" height="200"border="2" >
 
-Nereversibilní (nevratná) metoda: 
+**Nereversibilní** (nevratná) metoda: 
 
 **Sterilizace**
 Sterilizace je definována jako postup, který nevratně brání možnosti otěhotnění (ale zachovává normální funkci pohlavních žláz).
