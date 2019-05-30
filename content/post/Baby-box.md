@@ -16,5 +16,4 @@ Odložení dítěte do babyboxu není trestné a je zcela anonymní. Klimatizova
 Odloženému děťátku se dostane veškeré zdravotní péče a sociální pomoci. Náš program je jasný a zřetelný. Máme jediné přání. Aby již nikdy nebylo nalezeno mrtvé tělíčko!!
  
 <img src="https://imagevars.gulfnews.com/2012/11/25/1_16a082d5d18.1109934_1622087848_16a082d5d18_large.jpg" width="250" height="200"border="2" >
-<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 ---
