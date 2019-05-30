@@ -33,6 +33,4 @@ Třetí moodboard má ukázat jak někteří lidé vnímají utrácení štěň�
 
 <div class="canva-embed" data-design-id="DADXXyb4ATg" data-height-ratio="1.4143" style="padding:141.4286% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXXyb4ATg&#x2F;view?utm_content=DADXXyb4ATg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Dvojí metr</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;VojtechMichal?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Vojta</a>
 
-<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
-
 ---

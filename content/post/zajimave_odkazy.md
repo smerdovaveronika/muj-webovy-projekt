@@ -17,6 +17,5 @@ tags:
 V článku se dozvíte Co znamená Motto lobbujeme za život. Co hnutí dělá a proč. 
 Je to jedno z největších organizací pro život!
 
-<div class="fb-share-button" data-href="https://cranky-brattain-9738bc.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
 
 ---
