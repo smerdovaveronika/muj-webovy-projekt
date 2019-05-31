@@ -1,45 +1,145 @@
+body {
+     background: url(https://www.papelpintadoclasificado.com/6952-home_default/jules-et-julie-jul18914146.jpg)
+  }
+
+
+
+.description {
+  color: white;
+  font-family: Verdana;
+  font-weight: 150;
+  text-align: right;
+}
+
+
+
 .wrapper {
-  margin: 60px auto;
-  max-width: 700px;
-  padding: 25px;
+  margin: 30px auto;
+  max-width: 950px;
+  padding: 12px;
+  background: #f5f5f5;
+
+}
+
+ h1{ 
+  font-family: fantasy;
+  text-align: center;
+  font-size: 200%;
+  color: grey;
+ }
+
+ h2 {
+  font-family: Verdana;
+  font-size: x-large;
+  text-align: center;
+  color:grey;
+ }
+
+
+
+ a {
+    text-decoration: none;
+    color: #696969;
+}
+
+p {
+  font-family: Verdana;
+  font-size: medium;
+  text-align: justify; 
+  color: #696969;
+
 }
 
 header {
-  padding: 340px 0 0;
+  padding: 500px 0 0;
   border-bottom: solid;
-  background-image: url(https://images.pexels.com/photos/266011/pexels-photo-266011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&fbclid=IwAR3n4LbNd4vM0YIkyC5twrZnHTGpi_vJnX8ulCw5uwO4UTbLfbshx40xTLg)
+  background: url(https://cdn.pixabay.com/photo/2017/11/13/18/35/ad-2946440_960_720.jpg);
+  text-align: left;
+  color: #f5f5f5;
+  font-family: fantasy;
+  font-weight: 340px;
+  font-size: 22px;
+  
+
 }
 
 footer {
-  border-top: dotted;
+  
   clear: both;
+  background: ##696969;
+  font-family: fantasy;
+  font-weight: 400px;
+
 }
 
 .page {
-  float: middle;
-  width: 80%;
+  float: right;
+  width: 70%;
   border-left: solid;
-  padding-left: 2.5em;
-  padding-bottom: 2.5em;
+  border-color: grey;
+  padding-left: 25px;
+  padding-top: 20px;
+  padding-bottom: 1em;
   min-height: 400px;
-  background-color: #ff8080;
+  background: #f5f5f5;
+
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
+
 }
 
 nav li {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: 23px;
+ font-family: sans-serif;
+  font-weight: 700;
+  color: #696969;
+
 }
 
 nav .active {
   font-weight: bold;
+
+
+}
+
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+  display: inline-block
+}
+
+.resp-sharing-button__link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em
+}
+
+.resp-sharing-button {
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.resp-sharing-button__icon svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: top
+}
+
+.resp-sharing-button--small svg {
+  margin: 0;
+  vertical-align: middle
 }

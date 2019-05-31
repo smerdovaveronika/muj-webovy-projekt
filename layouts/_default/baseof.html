@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
   <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139167009-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139167009-1');
+</script>
+
 </head>
 <body>
   <div class="wrapper">
@@ -19,6 +29,7 @@
     {{ partial "menu.html" . }}
 
     <footer>
+     <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fcranky-brattain-9738bc.netlify.com%2F&layout=box_count&size=small&width=59&height=40&appId" width="59" height="40" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
       <p>
         <a style="box-shadow: none" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ "/images/cc80x15.png" | relURL }}" /></a><br>
         This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><b>Creative Commons</b> Attribution-ShareAlike 4.0 International License</a>.
